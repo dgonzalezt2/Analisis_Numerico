@@ -1,5 +1,11 @@
 # Proyecto análisis numérico
 
+# Integrantes
+* [David Gonzalez](https://github.com/dgonzalezt2)
+* [Hobarlan Uparela](https://github.com/huparelaa)
+* [Leonardo Rojas](https://github.com/LeoRojasss)
+* [Manuel Arango](https://github.com/Manuel220104)
+
 ## Backend
 
 ### Instalación
